@@ -1,6 +1,6 @@
 export default {
     title: 'Mémo commandes Git',
-    thumbnail: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e9c48659-10d7-49d6-88b2-ad98f62694bf/de5kmq3-5e92094d-a65f-4317-ae79-2dc31b87440c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTljNDg2NTktMTBkNy00OWQ2LTg4YjItYWQ5OGY2MjY5NGJmXC9kZTVrbXEzLTVlOTIwOTRkLWE2NWYtNDMxNy1hZTc5LTJkYzMxYjg3NDQwYy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.twBAya2Aw1UQvdPeqqcYOgTt5dKGeyV4lPLJk76bT4s',
+    thumbnail: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e9c48659-10d7-49d6-88b2-ad98f62694bf/de5mvof-51e456b1-e5a0-47d7-a132-a242ef7212ba.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTljNDg2NTktMTBkNy00OWQ2LTg4YjItYWQ5OGY2MjY5NGJmXC9kZTVtdm9mLTUxZTQ1NmIxLWU1YTAtNDdkNy1hMTMyLWEyNDJlZjcyMTJiYS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.-WfZcBCBIp8U2-bN9Te7IMAiOn8Kx8b480ax3X35rrY',
     author: 'Jennaris',
     commandes: [
       {
@@ -16,7 +16,7 @@ export default {
       },
       {
         id: 3,
-        name: 'git add',
+        name: 'git add .',
         description: 'Ajoute tous les fichiers à l’index',
       },
       {
@@ -226,5 +226,6 @@ export default {
     ],
     outro: [
       'Les commandes ci-dessus ne répresentent qu\'une infime partie du champ des commandes git possibles, surtout lorsqu\'on tient compte de la combinaison des milliers d\'options qui peuvent être associées à chacune d\'elles.',
+      'J\'éspère que ce mémo vous sera utile :-)',
     ],
   };

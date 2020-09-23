@@ -26,7 +26,7 @@ export default () => (
     </ul>
   </div>
 
-  <div className="intro">
+  <div className="outro">
     <ul>
         {outrolist}
     </ul>

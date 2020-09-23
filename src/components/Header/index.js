@@ -13,7 +13,6 @@ export default () => (
         alt={title}
         className="header-image"
       />
-      <h1> Un petit mémo Git </h1>
       <h2>par { author } </h2>
     </header>
 );
