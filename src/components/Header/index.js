@@ -1,5 +1,5 @@
 import React from 'react';
-import data from '/home/jennaris/Bureau/html/memo-git/src/data';
+import data from '../../data/list';
 
 const { title, thumbnail , author } = data;
 console.log('debug', title, thumbnail, author);
@@ -13,5 +13,7 @@ export default () => (
         alt={title}
         className="header-image"
       />
+      <h1> Un petit mémo Git </h1>
+      <h2>par { author } </h2>
     </header>
 );

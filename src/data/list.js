@@ -222,7 +222,7 @@ export default {
     ],
   
     intro: [
-      'Je vous présente un petit mémo regroupant une cinquantaine de commandes Git fortement utilisées pour de la gestion et le versioning de projets collaboratifs par une équipe de développement.',
+      'Je vous présente un petit mémo regroupant des commandes Git fortement utilisées pour de la gestion et le versioning de projets collaboratifs par une équipe de développement.',
     ],
     outro: [
       'Les commandes ci-dessus ne répresentent qu\'une infime partie du champ des commandes git possibles, surtout lorsqu\'on tient compte de la combinaison des milliers d\'options qui peuvent être associées à chacune d\'elles.',
