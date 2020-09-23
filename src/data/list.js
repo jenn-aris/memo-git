@@ -11,8 +11,8 @@ export default {
       },
       {
         id: 2,
-        name: 'git init',
-        description: '',
+        name: 'git init Nom_Du_Projet',
+        description: 'Initialise git dans le dossier',
       },
       {
         id: 3,
@@ -195,27 +195,27 @@ export default {
         description: 'Visualiser les serveurs distants que vous avez enregistrés. Spécifier -v, vous montre l’URL que Git a stockée pour chaque nom court.',
       },
       {
-        id: 33,
+        id: 39,
         name: 'git remote rename ancien_nom_court nouveau_nom_court',
         description: 'Renommer une référence',
       },
       {
-        id: 34,
+        id: 40,
         name: 'git remote rm nom_court',
         description: 'Retirer un dépôt distant',
       },
       {
-        id: 35,
+        id: 41,
         name: 'git tag -a v1.4 -m \'ma version 1.4',
         description: 'Créer des étiquettes annotées',
       },
       {
-        id: 36,
+        id: 42,
         name: 'git show v1.4 ',
         description: 'Visualiser les données de l’étiquette à côté du commit qui a été marqué. Cette commande affiche le nom du créateur, la date de création de l’étiquette et le message d’annotation avant de montrer effectivement l’information de validation.',
       },
       {
-        id: 37,
+        id: 43,
         name: 'git tag v1.4-lg',
         description: 'Créer des étiquettes légères. Celles-ci se réduisent à stocker la somme de contrôle d’un commit dans un fichier, aucune autre information n’est conservée.',
       },
